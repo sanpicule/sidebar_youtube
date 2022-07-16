@@ -12,7 +12,7 @@
 .sidebar {
   position: fixed;
   left: -250px;
-  background: #90908f;
+  background: #f0b971;
   width: 250px;
   height: 100%;
   transition: all .5s;
@@ -23,7 +23,7 @@
   color: white;
   text-align: center;
   line-height: 70px;
-  background: #353534;
+  background: #d96d0e;
   user-select: none;
 }
 
@@ -32,7 +32,7 @@
   height: 100%;
   width: 100%;
   line-height: 65px;
-  color: rgb(252, 252, 252);
+  color: black;
   font-size: 20px;
   padding-left: 40px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
